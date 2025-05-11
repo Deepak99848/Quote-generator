@@ -1,0 +1,9 @@
+i have completed task created a simple quote generator app using only HTML, CSS, and JavaScript. The app fulfill the all following requirements:
+ app should display one quote at a time to the user.
+Added a dropdown button to toggle between categories.selecting a “Computer” category should only show “Computer” quotes. There is a 3 categories. 
+Implemented "Next" and "Previous" buttons that allow users to navigate through the quotes in sequential order.
+Implemented a "Random" button that shows random quotes from the selected categories.
+Added a checkbox to toggle between dark and light mode for the app interface.
+Provided functionality to increase and decrease the font size of the displayed quotes.
+Design the app to be mobile friendly.
+The app is built using only HTML, CSS, and JavaScript without the use of any external frameworks or libraries.
